@@ -1,0 +1,99 @@
+body{
+    height: 100%;
+    background-color: black;
+}
+
+h3{
+
+
+    color: yellow;
+
+
+}
+
+img{
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
+#titulo1{
+
+    margin-left: 250px;
+    color: blue;
+
+}
+
+#titulo2{
+
+    margin-left: 400px;
+    margin-top: 50px;
+    color: blue;
+}
+
+#titulo3{
+
+    color: blue;
+    margin-top: 100px;
+    margin-left: 250px
+    
+}
+
+#titulo4{
+    color: blue;
+    margin-left: 350px
+    
+}
+
+#titulo5{
+    color: blue;
+    margin-top: 100px;
+    margin-left: 425px;
+
+}
+
+#titulos{
+
+    color: aliceblue;
+    margin-left: 50px;
+
+
+}
+
+#subtitulos{
+
+    color: beige;
+
+}
+
+#subtitulos3{
+
+    color: rgb(0, 0, 0);
+
+}
+
+
+
+#divpai{
+display: flex;
+
+
+}
+
+
+
+#divf1{
+height: 1100px;
+width: 1000px;
+background-color: gray;
+float: left;
+    
+}
+
+#divf2{
+
+height: 1100px;
+width: 4000px;
+background-color: whitesmoke;
+float: right;
+
+}
